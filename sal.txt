@@ -1,0 +1,9 @@
+Employee Name: John Doe
+Employee Salary: $60,000
+
+Employee Name: raed bari
+Employee Salary: $160,000
+
+Employee Name: rango
+Employee Salary: $80,000
+
